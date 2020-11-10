@@ -11,4 +11,4 @@ Project Repository - [https://github.com/rgoyal17/proSoccerStats](https://github
 Project Link - [http://campusmaps-env.eba-bkbmrd63.us-west-2.elasticbeanstalk.com/](http://campusmaps-env.eba-bkbmrd63.us-west-2.elasticbeanstalk.com/)  
     * As part of a class project, developed this application which enables a user to enter/select two buildings and shows a path between those two locations on the UW Seattle campus map.
     * Front-end built using ReactJS (utilizing HTML, CSS, TypeScript) and backend using Java – created a graph incorporating Dijkstra’s algorithm to find the lowest cost path.
-    * •	Utilized the Spring Boot Framework, hosted and deployed the application on AWS Elastic Beanstalk for server-side services.
+    * Utilized the Spring Boot Framework, hosted and deployed the application on AWS Elastic Beanstalk for server-side services.
