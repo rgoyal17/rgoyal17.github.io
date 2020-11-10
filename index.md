@@ -1,4 +1,4 @@
-## Projects
+## PROJECTS
 * ### ProSoccerStats
 Project Link - [https://pro-soccer-stats.firebaseapp.com/](https://pro-soccer-stats.firebaseapp.com/)
 Project Repository - [https://github.com/rgoyal17/proSoccerStats.git](https://github.com/rgoyal17/proSoccerStats.git)
