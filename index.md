@@ -1,4 +1,11 @@
 ## PROJECTS
+* ### MovieZone Mobile App
+Video Tutorial - [https://drive.google.com/file/d/1yrYfPotEoBfMe0D0vEXHGEiHIyfx5cDx/view?usp=sharing](https://drive.google.com/file/d/1yrYfPotEoBfMe0D0vEXHGEiHIyfx5cDx/view?usp=sharing)  
+Project Repository - [https://github.com/mmk42/MovieZone](https://github.com/mmk42/MovieZone)  
+APK Link - [https://drive.google.com/file/d/1Y_Bg5EWE33XF2sAdBhO8r487Mk9vGVPL/view?usp=sharing](https://drive.google.com/file/d/1Y_Bg5EWE33XF2sAdBhO8r487Mk9vGVPL/view?usp=sharing)  
+    * Created this application that enables a user to browse, search, view details, and save movies.
+    * Developed entirely using Android Studio in Kotlin and learned about various libraries and concepts in android programming such as Recycler Views, Fragments, Retrofit, Work Manager, MVVM, etc.
+    
 * ### Pro Soccer Stats
 Project Link - [https://pro-soccer-stats.firebaseapp.com/](https://pro-soccer-stats.firebaseapp.com/)  
 Project Repository - [https://github.com/rgoyal17/proSoccerStats](https://github.com/rgoyal17/proSoccerStats)  
